@@ -6,7 +6,12 @@ Para ejecutar la simulacion sin obstaculos se debe abrir el archivo 'KheperaPosi
 
 Despues de haber abierto exitosamente la escena de Coppelia, para ejecutar el programa que realice el control de posición sobre el robot movil, se pueden elegir 3 controladores distintos
 'IPC.py'
+
 'Villela.py'
+
 'NeuroE.py'
-jeje
+
+Cualquiera de los 3 controladores mencionados, son programas de python, y consecuentemente para ejecutarlos se ejecutan como un archivo de python normal. Para ejecutar un archivo de Python se debe abrir la ventana de comandos, 'comand prompt' o 'Simbolo del sistema', adentro de la ventana de comandos se debe navegar hasta la ubicación del archivo, y finalmente escribir 'python IPC.py'.
+
+Nota: Primero se debe abrir la escena de Coppelia y luego se ejecutar el archivo de python
 
