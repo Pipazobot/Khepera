@@ -5,8 +5,8 @@ Para ejecutar la simulacion sin obstaculos se debe abrir el archivo 'KheperaPosi
 ![](ejemplo.jpg)
 
 Despues de haber abierto exitosamente la escena de Coppelia, para ejecutar el programa que realice el control de posición sobre el robot movil, se pueden elegir 3 controladores distintos
---'IPC.py'
---'Villela.py'
---'NeuroE.py'
+'IPC.py'
+'Villela.py'
+'NeuroE.py'
 jeje
 
