@@ -2,4 +2,4 @@
 
 Hola
 
-![](ejemplo.png)
+![](ejemplo.jpg)
